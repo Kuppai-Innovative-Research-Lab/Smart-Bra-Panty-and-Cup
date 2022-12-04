@@ -1,4 +1,4 @@
-# Smart Bra Panty and Cup
+# Smart Bra, Panty and Cup
 
 ### Smart Bra
 
@@ -13,5 +13,10 @@
 - **2022:** - Smart Bra for Diagnosing Breast Cancer (CBRA) [Source: [Click Here](https://clinicaltrials.gov/ct2/show/NCT05294016)]
 
 ### Smart Panty
+
+- **2018: Skiin** - Smart Bra and Underwear [Source: [Click Here](https://nypost.com/2018/01/10/smart-underwear-is-here-and-its-ridiculous/), [Click Here](https://interestingengineering.com/innovation/smart-underwear-could-be-the-future-of-smart-wearables)] 
+- **2021:Myant Inc** - Smart underwear that could become one of the most reliable and effective ways to detect and prevent health issues. The underwear current includes biometric sensors that measure things like sleep quality, activity, stress level, temperature, and electrocardiography (ECG). [Source: [Click Here](https://www.forbes.com/sites/bernardmarr/2021/07/05/smart-underpants-a-new-brief-in-health-monitoring/?sh=2d3a61ef4570), [Click Here](
+ https://www.forbes.com/sites/bernardmarr/2021/07/05/smart-underpants-a-new-brief-in-health-monitoring/?sh=2d3a61ef4570)]
+- **Alma** - is the first non-invasive tool for monitoring vaginal health. It measures pH and other biomarkers in vaginal fluid and interacts with user via an app. This tool enables body awareness, prevention and monitoring of vaginal conditions such as infections and STIs. [Source: [Click Here](https://al-ma.org/Smart-Underwear)]
 
 ### Smart Cup
