@@ -20,3 +20,7 @@
 - **Alma** - is the first non-invasive tool for monitoring vaginal health. It measures pH and other biomarkers in vaginal fluid and interacts with user via an app. This tool enables body awareness, prevention and monitoring of vaginal conditions such as infections and STIs. [Source: [Click Here](https://al-ma.org/Smart-Underwear)]
 
 ### Smart Cup
+
+- **Loon Club** - monthly period partner – a friend who drops by when you need her to help you feel better and make sure you're taking care of your body during this special time. [Source: [Click Here](https://www.kickstarter.com/projects/700989404/looncup-the-worlds-first-smart-menstrual-cup)]
+- **Menstrual Cup Coalition** - supports the safe use of affordable menstrual cups by sharing knowledge and good practice globally. [Source: [Click Here](https://menstrualcupcoalition.org/)]
+- **Patent** - Smart menstrual cup and method for measuring menstrual blood using smart menstrual cup [Source: [Click Here](https://patents.google.com/patent/WO2017010800A1/en)]
